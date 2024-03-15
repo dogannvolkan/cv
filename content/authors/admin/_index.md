@@ -41,39 +41,47 @@ skills:
     items:
       - name: Python
         description: 'Proficient in Python programming, with experience in web development, data analysis, and machine learning applications.'
-        percent: 0
+        percent: null
         icon: python
         icon_pack: fab
       - name: C++
         description: 'Experienced in C++ development, with a focus on high-performance computing, system programming, and software engineering principles.'
+        percent: null
         icon: code
         icon_pack: fas
       - name: Matlab
         description: 'Skilled in using Matlab for numerical computing, algorithm development, data visualization, and mathematical modeling.'
+        percent: null
         icon: calculator
         icon_pack: fas
       - name: PyTorch/Tensorflow/Keras
         description: 'Deep understanding of deep learning frameworks like PyTorch, Tensorflow, and Keras for building and training neural networks.'
+        percent: null
         icon: brain
         icon_pack: fas
       - name: OpenCV/Numpy
         description: 'Experienced in image processing and numerical operations using OpenCV and Numpy libraries in Python.'
+        percent: null
         icon: image
         icon_pack: fas
       - name: TensorRT/TVM
         description: 'Knowledgeable in optimizing deep learning models for production using TensorRT and TVM for efficient inference on various hardware.'
+        percent: null
         icon: rocket
         icon_pack: fas
       - name: GStreamer
         description: 'Proficient in using GStreamer for building media-handling components and pipelines for streaming applications.'
+        percent: null
         icon: film
         icon_pack: fas
       - name: Optical Design/Camera Calibration
         description: 'Experienced in optical system design, lens selection, and camera calibration techniques for computer vision applications.'
+        percent: null
         icon: eye
         icon_pack: fas
       - name: Blender
         description: 'Skilled in using Blender for 3D modeling, animation, rendering, and visual effects in multimedia projects.'
+        percent: null
         icon: cube
         icon_pack: fas
 
@@ -81,30 +89,38 @@ skills:
     items:
       - name: V7 Darwin
         description: 'Experienced in utilizing V7 Darwin for AI-powered image annotation, data management, and model training.'
+        percent: null
         icon: brain
         icon_pack: fas
       - name: Nvidia Jetson
         description: 'Skilled in deploying AI and machine learning projects on Nvidia Jetson platforms for edge computing applications.'
+        percent: null
         icon: microchip
         icon_pack: fas
       - name: Xilinx FPGA (Vivado SDK/RTL/HLS)
         description: 'Proficient in FPGA design and development using Xilinx tools, including Vivado SDK, RTL, and High-Level Synthesis (HLS).'
+        percent: null
         icon: puzzle-piece
         icon_pack: fas
       - name: Rockchip
         description: 'Experienced in implementing and optimizing AI and machine learning solutions on Rockchip platforms for embedded and IoT applications.'
+        percent: null
         icon: microchip
         icon_pack: fas
       - name: Linux
         description: 'Extensive experience with Linux operating systems, including system administration, shell scripting, and kernel customization.'
+        percent: null
+        percent: null
         icon: linux
         icon_pack: fab
       - name: Git/SVN
         description: 'Experienced in version control systems, particularly Git and SVN, for effective team collaboration and code management.'
+        percent: null
         icon: code-branch
         icon_pack: fas
       - name: Jira/Confluence/Office Programs
         description: 'Skilled in project management and documentation using tools like Jira and Confluence, along with proficiency in Microsoft Office and similar programs.'
+        percent: null
         icon: tasks
         icon_pack: fas
 
@@ -114,14 +130,17 @@ skills:
     items:
       - name: Cycling
         description: ''
+        percent: null
         icon: person-biking
         icon_pack: fas
       - name: Swimming
         description: ''
+        percent: null
         icon: person-swimming
         icon_pack: fas
       - name: Gym
         description: ''
+        percent: null
         icon: dumbbell
         icon_pack: fas
 
