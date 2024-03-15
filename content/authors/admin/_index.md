@@ -24,39 +24,104 @@ interests:
   - Computer Vision
   - Deep Learning
 
+# Education to show in About widget
+education:
+  courses:
+    - course: MSc in Cognitive Science
+      institution: Middle East Technical University
+      year: 2023
+    - course: BSc in Electrical - Electronics Engineer
+      institution: Middle East Technical University
+      year: 2017
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'Proficient in Python programming, with experience in web development, data analysis, and machine learning applications.'
         icon: python
         icon_pack: fab
       - name: C++
-        description: ''
-        percent: 65
-        icon: chart-line
+        description: 'Experienced in C++ development, with a focus on high-performance computing, system programming, and software engineering principles.'
+        icon: code
         icon_pack: fas
+      - name: Matlab
+        description: 'Skilled in using Matlab for numerical computing, algorithm development, data visualization, and mathematical modeling.'
+        icon: calculator
+        icon_pack: fas
+      - name: PyTorch/Tensorflow/Keras
+        description: 'Deep understanding of deep learning frameworks like PyTorch, Tensorflow, and Keras for building and training neural networks.'
+        icon: brain
+        icon_pack: fas
+      - name: OpenCV/Numpy
+        description: 'Experienced in image processing and numerical operations using OpenCV and Numpy libraries in Python.'
+        icon: image
+        icon_pack: fas
+      - name: TensorRT/TVM
+        description: 'Knowledgeable in optimizing deep learning models for production using TensorRT and TVM for efficient inference on various hardware.'
+        icon: rocket
+        icon_pack: fas
+      - name: GStreamer
+        description: 'Proficient in using GStreamer for building media-handling components and pipelines for streaming applications.'
+        icon: film
+        icon_pack: fas
+      - name: Optical Design/Camera Calibration
+        description: 'Experienced in optical system design, lens selection, and camera calibration techniques for computer vision applications.'
+        icon: eye
+        icon_pack: fas
+      - name: Blender
+        description: 'Skilled in using Blender for 3D modeling, animation, rendering, and visual effects in multimedia projects.'
+        icon: cube
+        icon_pack: fas
+
+  - name: Others
+    items:
+      - name: V7 Darwin
+        description: 'Experienced in utilizing V7 Darwin for AI-powered image annotation, data management, and model training.'
+        icon: brain
+        icon_pack: fas
+      - name: Nvidia Jetson
+        description: 'Skilled in deploying AI and machine learning projects on Nvidia Jetson platforms for edge computing applications.'
+        icon: microchip
+        icon_pack: fas
+      - name: Xilinx FPGA (Vivado SDK/RTL/HLS)
+        description: 'Proficient in FPGA design and development using Xilinx tools, including Vivado SDK, RTL, and High-Level Synthesis (HLS).'
+        icon: puzzle-piece
+        icon_pack: fas
+      - name: Rockchip
+        description: 'Experienced in implementing and optimizing AI and machine learning solutions on Rockchip platforms for embedded and IoT applications.'
+        icon: microchip
+        icon_pack: fas
+      - name: Linux
+        description: 'Extensive experience with Linux operating systems, including system administration, shell scripting, and kernel customization.'
+        icon: linux
+        icon_pack: fab
+      - name: Git/SVN
+        description: 'Experienced in version control systems, particularly Git and SVN, for effective team collaboration and code management.'
+        icon: code-branch
+        icon_pack: fas
+      - name: Jira/Confluence/Office Programs
+        description: 'Skilled in project management and documentation using tools like Jira and Confluence, along with proficiency in Microsoft Office and similar programs.'
+        icon: tasks
+        icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Cycling
         description: ''
-        percent: 100
-        icon: person-hiking
+        icon: person-cycling
         icon_pack: fas
       - name: Swimming
         description: ''
-        percent: 80
-        icon: cat
+        icon: person-swimming
         icon_pack: fas
       - name: Gym
         description: ''
-        percent: 80
-        icon: camera-retro
+        icon: dumbbell
         icon_pack: fas
 
 # Social/Academic Networking
@@ -69,16 +134,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: x.com
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dogannvolkan
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -87,7 +152,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
