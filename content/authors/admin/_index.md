@@ -41,6 +41,7 @@ skills:
     items:
       - name: Python
         description: 'Proficient in Python programming, with experience in web development, data analysis, and machine learning applications.'
+        percent: 0
         icon: python
         icon_pack: fab
       - name: C++
@@ -113,7 +114,7 @@ skills:
     items:
       - name: Cycling
         description: ''
-        icon: person-cycling
+        icon: person-biking
         icon_pack: fas
       - name: Swimming
         description: ''
