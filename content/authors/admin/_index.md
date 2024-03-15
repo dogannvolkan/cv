@@ -17,10 +17,7 @@ superuser: true
 role: Sr. Computer Vision Engineer
 
 # Short bio (displayed in user profile at end of posts)
-bio: Goal-oriented Computer Vision Engineer with 7+ years experience.
-Proficient in image processing and deep learning in real-time embedded
-systems. Developed, deployed and maintained deep learning models in
-different types of products.
+bio: Goal-oriented Computer Vision Engineer with 7+ years experience. Proficient in image processing and deep learning in real-time embedded systems. Developed, deployed and maintained deep learning models in different types of products.
 
 # Interests to show in About widget
 interests:
