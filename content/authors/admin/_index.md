@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MSc.
+title: Volkan Dogan
 
 # Full name (for SEO)
 first_name: Volkan
@@ -93,5 +93,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Volkan is a goal-oriented Computer Vision Engineer with 7+ years experience. Proficient in image processing and deep learning in real-time embedded systems. Developed, deployed and maintained deep learning models in different types of products.
 {style="text-align: justify;"}
