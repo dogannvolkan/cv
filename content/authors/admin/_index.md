@@ -177,5 +177,5 @@ social:
 highlight_name: true
 ---
 
-Volkan is a goal-oriented Computer Vision Engineer with 7+ years experience. Proficient in image processing and deep learning in real-time embedded systems. Developed, deployed and maintained deep learning models in different types of products.
+Volkan is a goal-oriented Computer Vision Engineer with 7+ years of experience. Proficient in image processing and deep learning in real-time embedded systems. Developed, deployed and maintained deep learning models in different types of products.
 {style="text-align: justify;"}
