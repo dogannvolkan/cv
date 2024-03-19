@@ -7,8 +7,8 @@ title: 'Deep Learning Classification of Cognitive Workload Levels from EEG Wavel
 authors:
   - Volkan Dogan
 
-date: '2023-10-02T:00:00:00Z'
-doi: ''
+publishDate: '2023-10-02T:00:00:00Z'
+#doi: ''
 
 abstract: Electroencephalogram (EEG) signals provide a non-invasive method to study cognitive processes. This study aimed to classify Multi-Attribute Task Battery (MATB) task difficulties based on wavelet transform images of EEG signals using deep learning models. An EEG dataset collected from 29 subjects while performing the MATB tasks of varying difficulties by Hinss et al. (2023) were transformed into wavelet images that can accommodate time-frequency information at the same time for further analysis. Three deep learning models, EfficientNet-B0, ResNet18, and ResNet50, were trained and tested on these images under different conditions, including pretrained and non-pretrained models, and using different optimizers. The models' performance was evaluated based on overall accuracy and accuracy by subject, EEG region, and task difficulty. The pretrained EfficientNet-B0 model achieved the highest overall accuracy (77.56%). However, the performance varied significantly across subjects and task difficulties, indicating limited generalizability. The model's accuracy was lower for medium tasks, suggesting difficulty in distinguishing between medium and other levels of difficulty. While deep learning models can achieve high accuracy in classifying MATB task difficulty based on EEG signals, their performance varies across individuals and task difficulties. Further research is needed to improve model generalizability, optimize performance across all task difficulties, and validate the models on larger and more diverse datasets.
 
