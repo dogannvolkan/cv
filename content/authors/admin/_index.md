@@ -87,13 +87,13 @@ skills:
 
   - name: Others
     items:
-      - name: V7 Darwin
-        description: 'Experienced in utilizing V7 Darwin for AI-powered image annotation, data management, and model training.'
-        percent: 1
-        icon: brain
-        icon_pack: fas
       - name: Nvidia Jetson
         description: 'Skilled in deploying AI and machine learning projects on Nvidia Jetson platforms for edge computing applications.'
+        percent: 1
+        icon: microchip
+        icon_pack: fas
+      - name: Rockchip
+        description: 'Experienced in implementing and optimizing AI and machine learning solutions on Rockchip platforms for embedded and IoT applications.'
         percent: 1
         icon: microchip
         icon_pack: fas
@@ -102,10 +102,10 @@ skills:
         percent: 1
         icon: puzzle-piece
         icon_pack: fas
-      - name: Rockchip
-        description: 'Experienced in implementing and optimizing AI and machine learning solutions on Rockchip platforms for embedded and IoT applications.'
+      - name: V7 Darwin
+        description: 'Experienced in utilizing V7 Darwin for AI-powered image annotation, data management, and model training.'
         percent: 1
-        icon: microchip
+        icon: brain
         icon_pack: fas
       - name: Linux
         description: 'Extensive experience with Linux operating systems, including system administration, shell scripting, and kernel customization.'
