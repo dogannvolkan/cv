@@ -53,7 +53,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -61,5 +61,4 @@ sections:
     design:
       columns: '2'
       view: card
-
 ---
